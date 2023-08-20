@@ -1,4 +1,3 @@
-# rail_track_anamoly_detection
 # Railaway-Track-Anamoly-Detection
 Railway Track Anomaly Detection is a machine learning project aimed at enhancing railway safety by automatically identifying anomalies and faults in images of railway tracks. This repository contains the code for building, training, and evaluating a model capable of detecting anomalies on railway tracks using state-of-the-art deep learning techniques.
 
